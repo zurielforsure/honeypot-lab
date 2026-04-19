@@ -9,6 +9,7 @@ This repository contains the user manual (PDF).
 ## Repository Structure
 honeypot-lab/
 ├── README.md
+
 └── Honeypot_project.pdf
 
 ## Tools Used
